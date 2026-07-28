@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual env
+.venv/
+venv/
+
+# Local runtime artifacts
+shortener.db
+runs/
+signoff.json
+QUALITY_GATE_REPORT.json
+
+# Editor
+.vscode/
+.idea/
